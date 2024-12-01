@@ -44,12 +44,12 @@ This repository contains my solutions for the 25 Days of Rust Programming Challe
 ## Daily Challenges
 
 ### Day 01
-- Challenge: [Description of the challenge]
-- Status: 🟢 Not Started
+- Challenge: Rust Ownership
+- Status: 🟢 
 
 ### Day 02
 - Challenge: [Description of the challenge]
-- Status: 🟡 Not Started
+- Status: 🟡 
 
 [... and so on for all 25 days]
 
